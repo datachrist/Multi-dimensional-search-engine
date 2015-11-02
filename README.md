@@ -47,3 +47,5 @@ operations are performed:
    g. PriceHike(l,h,r): increase the price of every product, whose id is 
       in the range [l,h], by r%  Discard any fractional pennies in the new 
       prices of items.  Returns the sum of the net increases of the prices.
+
+Note: These Operations are implemented in Node.java File and other are helper classes.
