@@ -48,4 +48,4 @@ operations are performed:
       in the range [l,h], by r%  Discard any fractional pennies in the new 
       prices of items.  Returns the sum of the net increases of the prices.
 
-Note: These Operations are implemented in Node.java File and other are helper classes.
+Note: These Operations are implemented in DS.java File and other are helper classes.
