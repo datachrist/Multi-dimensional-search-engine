@@ -1,4 +1,4 @@
-# eMDS
+# Multi-dimensional-search-engine
 Multi-dimensional search engine
 
 Environment: JAVA, IDE: Eclipse
