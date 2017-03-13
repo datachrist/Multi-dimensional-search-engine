@@ -5,10 +5,6 @@ package multidimensionalsearch;
 import java.util.ArrayList;
 
 
-/**
- * @author vaishali
- *
- */
 
 public class Node {
 	long id;
